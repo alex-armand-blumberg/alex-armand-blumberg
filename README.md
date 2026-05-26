@@ -75,6 +75,20 @@ Current architecture includes:
 
 ---
 
+## Selected Work
+
+### AEGIS — Geopolitical Early-Warning & Strategic Intelligence Platform
+Asset-centered geopolitical monitoring platform focused on escalation analysis, infrastructure exposure, and operational intelligence workflows.
+
+Core areas:
+- Multi-source OSINT/event ingestion
+- Geospatial intelligence visualization
+- Evidence correlation pipelines
+- Asset-centered impact analysis
+- Experimental analyst interfaces
+
+---
+
 ## Links
 
 - AEGIS Platform: https://aegis-hq.com
