@@ -19,6 +19,16 @@ Recipient of the Palantir Valley Forge Grant supporting independent experimentat
 
 ### AEGIS — Geopolitical Early-Warning & Strategic Intelligence Platform
 
+## Platform Preview
+
+<p align="center">
+  <img src="./assets/graph-preview.png" width="820">
+</p>
+
+<p align="center">
+  Asset relationship and event-correlation network view.
+</p>
+
 AEGIS is an asset-centered geopolitical intelligence and escalation monitoring platform designed to analyze global instability, infrastructure exposure, conflict escalation, and emerging strategic risk.
 
 The platform combines:
