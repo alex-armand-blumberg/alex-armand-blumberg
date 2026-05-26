@@ -2,6 +2,14 @@
   <img src="./assets/banner.png" alt="AEGIS Banner" />
 </p>
 
+<p align="center">
+  <img src="./assets/banner.png" alt="AEGIS Banner" />
+</p>
+
+<p align="center">
+  <img src="./assets/logo.png" alt="AEGIS Logo" width="120"/>
+</p>
+
 # Alex Armand-Blumberg
 
 High school student building data-driven systems for geopolitical analysis, escalation monitoring, and infrastructure risk modeling.
