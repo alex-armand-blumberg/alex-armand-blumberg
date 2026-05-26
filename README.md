@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./assets/banner.png" alt="AEGIS Banner" />
 </p>
-
 <p align="center">
   <img src="./assets/logo.png" alt="AEGIS Logo" width="120"/>
 </p>
